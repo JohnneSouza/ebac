@@ -8,12 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ebac" />
         <module name="modulo_sete" />
+        <module name="tarefa_wrapper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ebac" target="11" />
       <module name="modulo08" target="17" />
-      <module name="modulo_sete" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
